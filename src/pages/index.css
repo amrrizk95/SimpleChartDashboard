@@ -1,0 +1,96 @@
+#charts{
+    box-shadow: 1px 2px 50px #888888;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+    margin-top: 100px;
+}
+#dashWall{
+    box-shadow: 1px 2px 50px #888888;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 100px;
+    background-color: rgba(230, 224, 224, 0.37);
+}
+#chartComponent-1{
+    padding: 5px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 10px;
+}
+#chartComponent-1:hover{
+    cursor: pointer;
+}
+#chartComponent-2{
+    padding: 5px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 10px;
+}
+#chartComponent-2:hover{
+    cursor: pointer;
+}
+#chartComponent-3{
+    padding: 5px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 10px;
+}
+#chartComponent-3:hover{
+    cursor: pointer;
+}
+#chartComponent-4{
+    padding: 5px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 10px;
+}
+#chartComponent-4:hover{
+    cursor: pointer;
+}
+#dropableAreaBig-1{
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom:20px;
+  border: 2px dotted rgb(163, 164, 216);
+  min-height: 250px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: white;
+  
+}
+#dropableAreaBig-2{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    border: 2px dotted rgb(163, 164, 216);
+    min-height: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    
+  }
+#dropableAreaSm-1,#dropableAreaSm-2,#dropableAreaSm-3,#dropableAreaSm-4,#dropableAreaSm-5,#dropableAreaSm-6{
+    
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    border: 2px dotted rgb(163, 164, 216);
+    min-height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+}
+
+#dropableAreaMd-1,#dropableAreaMd-2{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    border: 2px dotted rgb(163, 164, 216);
+    min-height: 340px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+}
+#actions{
+    margin:20px;
+    margin-top:50px
+}

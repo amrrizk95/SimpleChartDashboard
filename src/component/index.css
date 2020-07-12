@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(16, 16, 17);
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    
+
+}
+.headerTitle{
+    color: rgb(253, 251, 251);
+    margin-left: 25px;
+    margin-top: 10px;
+}
